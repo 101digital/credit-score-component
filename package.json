@@ -1,6 +1,6 @@
 {
   "name": "credit-score-component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Credit Score Checking",
   "repository": "https://github.com/101digital/credit-score-component.git",
   "main": "index.js",

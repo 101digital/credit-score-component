@@ -40,7 +40,7 @@ const CreditCheckComponent = (props: CreditCheckComponentProps) => {
         bankLogo={bankLogo}
         bankName={bankName}
         bankId={bankId}
-        style={LoginBank.style}
+        style={LoginBank?.style}
         onSuccess={(csId) => {
           setConsentId(csId);
         }}
